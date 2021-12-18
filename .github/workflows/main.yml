@@ -1,5 +1,5 @@
 #https://github.com/serverless/github-action
-name: Deploy lambda functions
+name: Deploy lambda function
 
 on:
   push:
