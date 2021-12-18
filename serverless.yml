@@ -9,4 +9,4 @@ provider:
 functions:
   generateRandomNumber:
     handler: src/handler.generateRandomNumber
-    name: generateRandomNumber
+    name: generate-random-number
