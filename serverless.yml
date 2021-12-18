@@ -3,7 +3,7 @@ service: basic-serverless-lambda
 provider:
   name: aws
   runtime: nodejs14.x
-  stage: dev
+  #stage: dev
   region: ap-south-1
 
 functions:
